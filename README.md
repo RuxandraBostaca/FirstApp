@@ -2,6 +2,6 @@
 First Android App
 -png image
 -clickable button
--acccess from java
+-text set via java
 -use keyboard input
 -update text view
